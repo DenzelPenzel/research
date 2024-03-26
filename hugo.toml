@@ -1,3 +1,18 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://draculaas.github.io/blog/"
+languageCode = "en-us"
+title = "Draculaas's Blog"
+theme = "m10c"
+
+[params]
+  author = "Draculaas"
+  description = "This blog is where I share my thoughts and findings from my research"
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/draculaas"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/dracula_coder"
