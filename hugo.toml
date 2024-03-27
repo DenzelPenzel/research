@@ -1,18 +1,18 @@
-baseURL = "https://draculaas.github.io/blog/"
+baseURL = "https://DenzelPenzel.github.io/blog/"
 languageCode = "en-us"
-title = "Draculaas's Blog"
+title = "Denzel's research notes"
 theme = "m10c"
 
 [params]
-  author = "Draculaas"
+  author = "Denzel"
   description = "This blog is where I share my thoughts and findings from my research"
 
   [[params.social]]
     icon = "github"
     name = "GitHub"
-    url = "https://github.com/draculaas"
+    url = "https://github.com/DenzelPenzel"
 
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/dracula_coder"
+    url = "https://twitter.com/denzel_penzel"
