@@ -6,7 +6,7 @@ theme = "m10c"
 [params]
   author = "Denzel"
   description = "This blog is where I share my thoughts and findings from my research"
-  avatar = "/img//avatars/me.jpg"
+  avatar = "/img/avatars/me.jpg"
 
   [[params.social]]
     icon = "github"
