@@ -1,5 +1,5 @@
 ---
-name: Deploy Hugo site via GitHub Pages
+name: Update DNS Records
 
 on:
   push:
@@ -12,9 +12,11 @@ permissions:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
           submodules: true 
           fetch-depth: 0
