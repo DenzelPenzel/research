@@ -2,17 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/hello-world/</loc>
-    <lastmod>2024-03-26T20:28:52+00:00</lastmod>
+    <loc>http://localhost:1313/research/posts/algorithms/dp/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-03-26T20:28:52+00:00</lastmod>
+    <loc>http://localhost:1313/research/tags/algorithms/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-03-26T20:28:52+00:00</lastmod>
+    <loc>http://localhost:1313/research/posts/algorithms/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/research/tags/dynamic-programming/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/posts/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/tags/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/posts/hello-world/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/series/</loc>
   </url>
 </urlset>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Denzel</title>
-    <link>http://localhost:1313/research/</link>
-    <description>Recent content on Denzel</description>
+    <title>Algorithms on Denzel</title>
+    <link>http://localhost:1313/research/posts/algorithms/</link>
+    <description>Recent content in Algorithms on Denzel</description>
     <image>
       <title>Denzel</title>
       <url>http://localhost:1313/research/images/papermod-cover.png</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/research/posts/algorithms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithms / Dynamic Programming</title>
       <link>http://localhost:1313/research/posts/algorithms/dp/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/posts/algorithms/dp/</guid>
       <description>My personal notes on Dynamic Programming</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/research/posts/hello-world/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/posts/hello-world/</guid>
-      <description>This&amp;rsquo;s my first post!</description>
     </item>
   </channel>
 </rss>
