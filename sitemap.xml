@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://DenzelPenzel.github.io/blog/</loc><lastmod>2024-03-26T20:28:52+00:00</lastmod></url><url><loc>https://DenzelPenzel.github.io/blog/posts/hello-world/</loc><lastmod>2024-03-26T20:28:52+00:00</lastmod></url><url><loc>https://DenzelPenzel.github.io/blog/posts/</loc><lastmod>2024-03-26T20:28:52+00:00</lastmod></url><url><loc>https://DenzelPenzel.github.io/blog/categories/</loc></url><url><loc>https://DenzelPenzel.github.io/blog/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://DenzelPenzel.github.io/research/posts/algorithms/dp/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/tags/algorithms/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/posts/algorithms/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/tags/dynamic-programming/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/posts/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/tags/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/posts/hello-world/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/archives/</loc>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/categories/</loc>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/search/</loc>
+  </url><url>
+    <loc>https://DenzelPenzel.github.io/research/series/</loc>
+  </url>
+</urlset>

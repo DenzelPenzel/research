@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Denzel's research notes</title><link>https://DenzelPenzel.github.io/blog/tags/</link><description>Recent content in Tags on Denzel's research notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://DenzelPenzel.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Denzel</title>
+    <link>https://DenzelPenzel.github.io/research/tags/</link>
+    <description>Recent content in Tags on Denzel</description>
+    <image>
+      <title>Denzel</title>
+      <url>https://DenzelPenzel.github.io/research/images/papermod-cover.png</url>
+      <link>https://DenzelPenzel.github.io/research/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://DenzelPenzel.github.io/research/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithms</title>
+      <link>https://DenzelPenzel.github.io/research/tags/algorithms/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://DenzelPenzel.github.io/research/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dynamic Programming</title>
+      <link>https://DenzelPenzel.github.io/research/tags/dynamic-programming/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://DenzelPenzel.github.io/research/tags/dynamic-programming/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
